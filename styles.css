@@ -34,6 +34,8 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #rgb(130, 181, 223;
-
-.heroContainer
+  background-color: rgb(130, 181, 223);
+}
+.HeroImg{
+  width: 20%;
+}
