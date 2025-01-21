@@ -21,6 +21,7 @@ nav {
   background-color: rgb(130, 181, 223);
 }
 
+
 nav a {
   display: inline-block;
   min-width: 9rem;
@@ -36,6 +37,21 @@ nav a[aria-current='page'] {
   color: #000;
   background-color: rgb(130, 181, 223);
 }
-.HeroImg{
+.HovedImg{
   width: 20%;
+  display: flex;
+  justify-content: flex-end;
+}
+.Hoved{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.HovedTekst{
+  display: flex;
+  justify-content: flex-start;
+}
+.HovedP{
+  display: flex;
+  justify-content: flex-start;
 }
